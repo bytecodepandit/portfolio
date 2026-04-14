@@ -29,7 +29,7 @@ export default function Hero() {
             <WordRotate words={greetings} />
             {", I'm"}
           </h1>
-          
+
           {/* Rotating Text for Skills */}
           <div className="flex justify-center mt-4">
             <RotatingText
@@ -40,7 +40,7 @@ export default function Hero() {
               staggerFrom="last"
             />
           </div>
-        
+
           {/* Call-to-action buttons */}
           <div className="flex justify-center gap-4 mt-8">
             <a
@@ -64,7 +64,7 @@ export default function Hero() {
               <ArrowRight size={20} />
             </a>
             <a
-              href="https://drive.google.com/file/d/19OIvRPHgk33QxWhuJU7aqofY2OONg5jq/view?usp=sharinghttps://drive.google.com/file/d/1ghyDIpJftOrMTYHSO7bAyzZ5HXS1vj-V/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tH7mLPkSsyEM0rezZTZgu9Y6_k_ARrj_/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 text-base font-semibold text-white transition-all duration-300 bg-transparent border border-white rounded-lg shadow-lg pointer-events-auto hover:bg-white hover:text-white hover:scale-105"
